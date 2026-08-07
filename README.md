@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/naina2204/leetcode/tree/master/0006-zigzag-conversion) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/naina2204/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naina2204/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naina2204/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
