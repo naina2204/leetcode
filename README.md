@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/naina2204/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/naina2204/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naina2204/leetcode/tree/master/0013-roman-to-integer) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naina2204/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naina2204/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/naina2204/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/naina2204/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naina2204/leetcode/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/naina2204/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/naina2204/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/naina2204/leetcode/tree/master/1140-stone-game-ii) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/naina2204/leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/naina2204/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naina2204/leetcode/tree/master/0013-roman-to-integer) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/naina2204/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naina2204/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naina2204/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
