@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/naina2204/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/naina2204/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/naina2204/leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/naina2204/leetcode/tree/master/0015-3sum) |
 | [0486-predict-the-winner](https://github.com/naina2204/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/naina2204/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/naina2204/leetcode/tree/master/1140-stone-game-ii) |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/naina2204/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/naina2204/leetcode/tree/master/0015-3sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/naina2204/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/naina2204/leetcode/tree/master/0015-3sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naina2204/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naina2204/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naina2204/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
