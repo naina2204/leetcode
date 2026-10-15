@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/naina2204/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/naina2204/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naina2204/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/naina2204/leetcode/tree/master/0031-next-permutation) |
 | [0486-predict-the-winner](https://github.com/naina2204/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/naina2204/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/naina2204/leetcode/tree/master/1140-stone-game-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/naina2204/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/naina2204/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naina2204/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/naina2204/leetcode/tree/master/0031-next-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/naina2204/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
