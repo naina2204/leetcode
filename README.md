@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naina2204/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/naina2204/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/naina2204/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/naina2204/leetcode/tree/master/0035-search-insert-position) |
 | [0486-predict-the-winner](https://github.com/naina2204/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/naina2204/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/naina2204/leetcode/tree/master/1140-stone-game-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/naina2204/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/naina2204/leetcode/tree/master/0035-search-insert-position) |
 | [3312-sorted-gcd-pair-queries](https://github.com/naina2204/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/naina2204/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
